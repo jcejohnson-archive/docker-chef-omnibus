@@ -11,9 +11,17 @@
 			"file": "Dockerfile",
 			"settings":
 			{
-				"buffer_size": 211,
+				"buffer_size": 238,
 				"line_ending": "Windows",
 				"name": "FROM ubuntu:14.04"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 226,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -24,12 +32,12 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 196.0,
-		"last_filter": "git comm",
+		"height": 219.0,
+		"last_filter": "git com",
 		"selected_items":
 		[
 			[
-				"git comm",
+				"git com",
 				"Git: Commit"
 			],
 			[
@@ -41,16 +49,16 @@
 				"Git: Status"
 			],
 			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
 				"gitpush",
 				"Git: Push"
 			],
 			[
 				"git push",
 				"Git: Push Current Branch"
-			],
-			[
-				"git com",
-				"Git: Commit"
 			],
 			[
 				"git c",
@@ -85,7 +93,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 512.0
+		"width": 400.0
 	},
 	"console":
 	{
@@ -186,15 +194,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 211,
+						"buffer_size": 238,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								148,
+								155
 							]
 						],
 						"settings":
@@ -209,6 +217,34 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
